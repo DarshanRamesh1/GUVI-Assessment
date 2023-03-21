@@ -17,5 +17,5 @@
 
 ### Backend MySQL PhpMyAdmin
 1) website is hosted on Xampp server
-2) Database resides in local storage created in PhpMyAdmin.
+2) Database resides in local host created in PhpMyAdmin.
 3) Name of Database used is loginregister and table created name is tb_users
